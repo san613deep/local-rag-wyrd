@@ -1,0 +1,39 @@
+# # Core RAG Framework
+# langchain
+# langchain-community
+# langchain-core
+
+# # Vector Database
+# chromadb
+
+# # Embeddings & LLM (Ollama)
+# ollama
+
+# # Document Loaders
+# pymupdf
+# pdfplumber
+
+# # Markdown / Text Processing
+# markdown
+# beautifulsoup4
+
+# # Environment variables
+# python-dotenv
+
+# # Optional UI
+# gradio
+
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+chromadb
+ollama
+pymupdf
+pdfplumber
+beautifulsoup4
+markdown
+python-dotenv
+gradio
